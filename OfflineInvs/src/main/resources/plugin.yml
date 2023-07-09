@@ -1,0 +1,8 @@
+name: OfflineInvs
+version: '${project.version}'
+main: me.offlineinvs.OfflineInvs
+api-version: 1.19
+commands:
+  invsee:
+  ec:
+  listinvs:
